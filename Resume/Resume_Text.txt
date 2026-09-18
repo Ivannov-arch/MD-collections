@@ -1,0 +1,124 @@
+================================================================================
+IVANNOV KENNEDY TATANG
+AI Application Developer | Full-Stack AI Developer
+================================================================================
+Jakarta, Indonesia
+Instagram  : instagram.com/ivannov_kennedy
+LinkedIn   : linkedin.com/in/ivannov-kennedy-tatang
+daily.dev  : daily.dev/ivannovkennedy
+================================================================================
+
+
+PROFILE SUMMARY
+---------------
+AI Technology student with hands-on experience building end-to-end AI
+applications. Skilled in solving real-world problems through full-stack web
+apps powered by ML and LLM. Strong in React/Next.js (frontend) and
+Python/FastAPI (backend). Passionate about Generative AI (LLM/RAG) and
+quantitative finance applications.
+
+
+TECHNICAL SKILLS
+----------------
+Frontend    : React, Next.js, JavaScript, TypeScript, JSX/TSX,
+              Tailwind CSS, Vite, HTML, CSS
+
+Backend     : Python, FastAPI, Node.js, Laravel, REST API
+
+Database    : Supabase, PostgreSQL, MySQL, MongoDB
+
+AI / ML     : LLM APIs (OpenAI GPT, Google Gemini, Claude),
+              RAG (Retrieval-Augmented Generation),
+              Prompt Engineering, LangChain, LlamaIndex,
+              AI Agents, PyTorch, TensorFlow, scikit-learn,
+              XGBoost, NumPy, Pandas
+
+DevOps      : Git, GitHub, Docker, CI/CD (GitHub Actions),
+              Cloud Deployment, Linux
+
+
+WORK EXPERIENCE
+---------------
+Full-Stack AI Developer                              Jan 2025 – Present
+Campus Chatbot Project (Self-initiated)
+
+  - Built a RAG-based chatbot (Next.js + Supabase) for campus information
+    guidance, serving ~500 student queries per month.
+  - Engineered knowledge-base pipeline with Markdown document retrieval
+    and LLM API integration (OpenAI GPT, Google Gemini, Claude).
+  - Improved answer accuracy by ~85% via prompt tuning and fallback
+    mechanisms for unanswered questions.
+  - Implemented language translation and grammar correction modules for
+    multilingual support.
+  Tech: Next.js, React, Node.js, Python, Supabase, LangChain, LLM API
+
+
+AI Developer Intern                                  Jul 2024 – Dec 2024
+Bitcoin Price Prediction Research Project
+
+  - Researched ML models for 1-hour BTC price prediction; collected
+    5-year historical OHLCV dataset.
+  - Performed technical feature engineering: moving averages, momentum
+    indicators, and volume-based metrics.
+  - Trained XGBoost classification model (UP/DOWN) achieving 68% accuracy
+    versus 55% baseline.
+  - Built daily prediction-testing pipeline processing >10,000
+    samples per experiment.
+  Tech: Python, XGBoost, Pandas, scikit-learn, NumPy, FastAPI
+
+
+1st Place – AI Hackathon (Fintech Theme)                          2023
+University AI Competition
+
+  - Implemented logistic regression model for real-time stock market
+    prediction with interactive dashboard.
+  - Designed and presented MVP for market analysis application within
+    a 24-hour competition window.
+  Tech: Python, scikit-learn, Streamlit
+
+
+EDUCATION
+---------
+S1 Artificial Intelligence Technology                     2022 – 2026
+Universitas (AI Concentration)
+GPA: 3.75
+
+Final Project: RAG Chatbot for Campus E-Commerce Platform
+
+
+CERTIFICATIONS
+--------------
+- TensorFlow Developer Certificate                               Google
+- Data Science for Business                                    Coursera
+
+
+NOTABLE PROJECTS
+----------------
+1. Campus RAG Chatbot (Active)
+   End-to-end RAG application using Next.js, Supabase vector store, and
+   LLM APIs. Includes knowledge-base ingestion, retrieval pipeline, and
+   real-time chat UI for campus Q&A.
+   Stack: Next.js, Supabase, LangChain, OpenAI API
+
+2. BTC Price Predictor (Research)
+   ML pipeline for short-term Bitcoin price classification. Feature
+   engineering on 5-year OHLCV data, XGBoost training, and FastAPI
+   inference endpoint.
+   Stack: XGBoost, FastAPI, Pandas, scikit-learn
+
+3. AI Agent Workflow Explorer (Exploration)
+   Experimental multi-agent orchestration using LangChain and LlamaIndex
+   with tool-use, embedding search (vector DB), and structured output
+   parsing.
+   Stack: LangChain, LlamaIndex, Python, Vector DB
+
+
+LANGUAGES
+---------
+Indonesian : Native
+English    : Professional Working Proficiency
+
+
+================================================================================
+Last updated: September 2026
+================================================================================
