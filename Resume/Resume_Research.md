@@ -6,7 +6,7 @@ CV harus ringkas namun memuat kata kunci utama dari profil (Python, JavaScript/N
 
 - **CV 1-Halaman (versi ringkas)**  
   **Vann (Nama Lengkap)** – *AI Application Developer / Full-Stack AI Developer*  
-  Jakarta, Indonesia • vann@example.com • +62-812-3456-7890  
+  Selangor, Malaysia • vann@example.com • +62-812-3456-7890  
 
   **Profil:** Mahasiswa Teknologi Artificial Intelligence dengan pengalaman membangun aplikasi AI end-to-end. Terbiasa menyelesaikan masalah pengguna lewat aplikasi web full-stack yang memanfaatkan model ML/LLM. Kuat dalam React/Next.js untuk frontend dan Python (FastAPI) untuk backend. Tertarik dengan AI generatif (LLM/RAG) dan aplikasi keuangan kuantitatif.  
 
@@ -21,7 +21,7 @@ CV harus ringkas namun memuat kata kunci utama dari profil (Python, JavaScript/N
 - **CV 2-Halaman (versi rinci)**  
   Struktur mirip versi 1-halaman, ditambah detail proyek atau pengalaman lainnya:  
   **Nama** – AI Application Developer / Full-Stack Developer  
-  **Kontak:** Jakarta, Indonesia • vann@example.com • GitHub: github.com/vann • LinkedIn: linkedin.com/in/vann-ai  
+  **Kontak:** Selangor, Malaysia • vann@example.com • GitHub: github.com/vann • LinkedIn: linkedin.com/in/vann-ai  
 
   **Ringkasan:** (1–2 kalimat) Contoh: *Mahasiswa AIT dengan keahlian full-stack dan AI/ML.* **Kemampuan Utama:** [daftar skill teknis dengan koma].  
 

@@ -1,7 +1,7 @@
 # Ivannov Kennedy Tatang
 **AI Application Developer | Full-Stack AI Developer**
 
-Jakarta, Indonesia  
+Selangor, Malaysia  
 [LinkedIn](https://www.linkedin.com/in/ivannov-kennedy-tatang) • [daily.dev](https://daily.dev/ivannovkennedy) • [Instagram](https://www.instagram.com/ivannov_kennedy)
 
 ---
