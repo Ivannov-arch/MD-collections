@@ -1,7 +1,7 @@
 # Ivannov Kennedy Tatang
 **AI Application Developer | Full-Stack AI Developer**
 
-Selangor, Malaysia • [LinkedIn](https://www.linkedin.com/in/ivannov-kennedy-tatang) • [daily.dev](https://daily.dev/ivannovkennedy) • [Instagram](https://www.instagram.com/ivannov_kennedy)
+Selangor, Malaysia • [LinkedIn](https://www.linkedin.com/in/ivannov-kennedy-tatang) • [daily.dev](https://daily.dev/ivannovkennedy) • [Instagram](https://www.instagram.com/ivannov_kennedy) • [Personal Website](https://ivannov-personal-website.netlify.app)
 
 ---
 
@@ -27,6 +27,12 @@ Full-Stack AI Developer specializing in modern web frameworks (Next.js/React) an
 - Architected an explainable autonomous trading system using **LangGraph state machines** for schema-validated pre-trade thesis verification and automated execution via **Alpaca MCP**.
 - Built a post-trade autopsy pipeline using **Supabase pgvector** to embed trade outcomes and retrieve historical lessons during future evaluations, paired with an async 15-min background position auditor.
 - **Tech Stack:** Next.js, Tailwind CSS, Python, LangGraph, Gemini API, DeepSeek API, Supabase (pgvector, RLS), Alpaca MCP
+
+### **Full-Stack & AI Engineer** — ShipSight: Early Warning & Decision Intelligence
+*Aug 2026* • **Devpost AI Builders Hackathon Submission** • [Project Link](https://shipsight-intelligence.vercel.app/)
+- Engineered a predictive logistics platform featuring a dual **XGBoost pipeline** (3.57d MAE Regressor, 91.6% accuracy Classifier) trained on 10,000+ USAID records, integrated with **TreeSHAP** for real-time root-cause risk driver visualization.
+- Prompt-engineered **Google Gemini** into an agentic reasoning engine generating domain-grounded tactical mitigation playbooks, supported by an async **FastAPI** bulk manifest scanner and **Supabase PostgreSQL** active learning loop.
+- **Tech Stack:** Next.js, Tailwind CSS, Python, FastAPI, XGBoost, TreeSHAP, Google Gemini API, Supabase (PostgreSQL)
 
 ### **Full-Stack & AI Engineer** — XMUM CIKGU (Campus Assistant Platform)
 *May 2026 – Aug 2026* • [Project Link](https://lnkd.in/gJ3n9F7U)
